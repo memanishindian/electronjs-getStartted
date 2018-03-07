@@ -4,6 +4,13 @@ this is my fist program to create Desktop App with Electronjs
 make sure you have already installed:-
 	nodejs https://nodejs.org/en/ and
 	npm
+through Command prompt in home directory:
+to install Nodejs
+    
+    sudo apt-get install nodejs
+to install npm
+ 
+    sudo apt-get install npm
 
 Guide how to create your first app:-
 
