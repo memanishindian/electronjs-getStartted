@@ -8,15 +8,17 @@ step1-
 step2-
        goto to newly created folder >cd ElectronjsApp
 step3-
-      create three files with name like-
+  create three files with name like-
         1>index.html
 	2>main.js
 	3>package.json
 step4-
-
-	type command on terminal in ElectronjsAPP(created folder)
-           $npm init
-       give the name of project name and other things
+ type command on terminal in ElectronjsAPP(created folder)
+           
+	   $npm init
+       
+   give the name of project name and other things
 step5-
-     	
-	open package.json file and write in script "start":"electron ."
+	open package.json file and write in script 
+	
+		"start":"electron ."
