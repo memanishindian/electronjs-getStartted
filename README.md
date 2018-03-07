@@ -16,8 +16,10 @@ Guide how to create your first app:-
 
 step1-
       create one directory eg. ElectronjsApp
+      
 step2-
        goto to newly created folder >cd ElectronjsApp
+
 step3-
   create three files with name like-
         1>index.html
