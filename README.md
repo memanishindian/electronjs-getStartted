@@ -26,10 +26,10 @@ step3-
 step4-
  type command on terminal in ElectronjsAPP(created folder)
            
-	   $npm init
+    npm init
        
    give the name of project name and other things
 step5-
 	open package.json file and write in script 
 	
-		"start":"electron ."
+    "start":"electron ."
