@@ -1,0 +1,14 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "this is my first test",
+  "main": "main.js",
+  "scripts": {
+    "start":"electron ."
+  },
+  "author": "manish",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.8.3"
+  }
+}
