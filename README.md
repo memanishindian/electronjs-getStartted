@@ -18,4 +18,5 @@ step4-
            $npm init
        give the name of project name and other things
 step5-
-     open package.json file and write in script "start":"electron ."
+     	
+	open package.json file and write in script "start":"electron ."
